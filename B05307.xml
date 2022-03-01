@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act by his royal Highness, his Majesties High Commissioner, and Lords of Privy Council, establishing the order of the ryding, &amp;c. at the opening of the ensuing Parliament ... appointed to be recorded in the books of Privy Council ... at Edinburgh, July 25, 1681.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05307</idno>
+            <idno type="STC">Wing S1405B</idno>
+            <idno type="STC">ESTC R182982</idno>
+            <idno type="EEBO-CITATION">52615047</idno>
+            <idno type="OCLC">ocm 52615047</idno>
+            <idno type="VID">176155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176155)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act by his royal Highness, his Majesties High Commissioner, and Lords of Privy Council, establishing the order of the ryding, &amp;c. at the opening of the ensuing Parliament ... appointed to be recorded in the books of Privy Council ... at Edinburgh, July 25, 1681.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Rites and ceremonies --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:176155:1" rendition="simple:additions"/>
+            <head>
+               <hi>AN ACT By His ROYAL HIGHNESS,</hi> His <hi>Majeſties</hi> High Commiſſioner, and Lords of Privy Council, Eſtabliſhing the Order of the Ryding, <hi>&amp;c.</hi> at the Opening of the enſuing Parliament, and ſeveral Circum<g ref="char:EOLhyphen"/>ſtances relating thereto, conform to the ancient practice of the Kingdom of <hi>Scotland,</hi> appointed to be Recorded in the Books of Privy Council, and the Lyons Books, at <hi>Edinburgh, July 25. 1681.</hi>
+            </head>
+            <p n="1">I. HIs <hi>Majeſties</hi> High Commiſſioner, and Lords of Privy Council ordain, the Magiſtrats of <hi>Edinburgh,</hi> to cauſe make a Lane of their Ci<g ref="char:EOLhyphen"/>tizens, in Arms, and beſt order, from the Lady-ſteps to the Nether-bow, (His <hi>Majesties</hi> Foot-guards, making the Lane from the Nether-bow to the <hi>Palace.</hi>)</p>
+            <p n="2">II. The ſaids Magiſtrates are appointed to order, that there be no ſhooting, nor any diſplaying of Enſigns, nor beating of Drums; during the <hi>Cavalcade,</hi> nor any Coaches to be ſeen within the Ports of <hi>Edinburgh,</hi> till the whole So<g ref="char:EOLhyphen"/>lemnity be over, under all higheſt pains. The ſaids Magiſtrates are to cauſe make and place two Banks of Timber within the <hi>Abbay-Cloſe</hi> for mounting on Horſe-back, and two at the <hi>Lady Steps,</hi> for Mounting upon Horſe-back and Diſmounting.</p>
+            <p n="3">III. The Conſtable and Mariſchal Guards of Partizans, are to make a Lane from the Lady-ſteps, theſe of the Conſtables without, and theſe of the Mariſ<g ref="char:EOLhyphen"/>chals within the Houſe, allowing the Conſtable ſix of his Guard within Doors, conform to the former practice.</p>
+            <p n="4">IV. Every Member of Parliament muſt Ride, and the abſents incur fyning, conform to the Act of Parliament, 1662.</p>
+            <p n="5">V. Where there be double Elections of Commiſſioners, neither are to Ride.</p>
+            <p n="6">VI. The Nobility are to Ride in their Robes, and with Foot-mantles.</p>
+            <p n="7">VII. The Officers of State who are not Noblemen, and who have Gowns, peculiar to their Office, are to Ride in theſe Gowns.</p>
+            <p n="8">VIII. The whole Members are to Ride Covered, excepting theſe who carry the Honours.</p>
+            <p n="9">IX. The Lyon, Heraulds, Purſevants and Trumpets, Ride immediatly before the Honours; the Lyon in his Coat and Robe, Chain and Batton alone, and immediatly before the Sword; the reſt with their Coats and Foot-mantles, bare-headed in their accuſtomed order.</p>
+            <p n="10">X. The two Macers of Council, and four Macers of Seſſion, Ride on each ſide of the Honours, bare-headed, with Foot-mantles; the two Macers of Coun<g ref="char:EOLhyphen"/>cil attending the Crown, and the four Macers of Seſſion, the Scepter and Sword.</p>
+            <p n="11">
+               <pb n="2" facs="tcp:176155:2"/> XI. The Higher Degree, and moſt Honourable of that Degree, is to Ride always laſt.</p>
+            <p n="12">XII. Every Duke is to have eight Lackeys, every Marqueſs ſix, every Earl four, every Viſcount three, every Lord three, every Commiſsioner for a Shire two, and every Commiſsioner from Burghs one; and every Nobleman is to have a Gentleman, bare-headed, to walk by him, and to bear up his Train, and theſe Gentlemen are, at their Entry to the Houſe, to ſtand without the Bar.</p>
+            <p n="13">XIII. The Arch-Biſhops and Biſhops are to Ride in their Gowns and Tippets with their Foot-mantles, and the Arch-Biſhops may have eight Lackeys, and Biſhops three, and each of them is to have a Gentleman bare-headed to walk by him, and to bear up his Train.</p>
+            <p n="14">XIV. The Noblemens Lackeys may have over their Liveries, Velvet Coats with their Badges, <hi>i. e.</hi> their Creiſts and Motto's done on Plate, or Embroi<g ref="char:EOLhyphen"/>dered upon the Back and Breaſt, conform to ancient Cuſtom; or their or<g ref="char:EOLhyphen"/>dinar Liveries.</p>
+            <p n="15">XV. The Conſtable and Mariſchal, are in the morning to wait on His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> High Commiſſioner at the <hi>Palace,</hi> and to receive his Orders, and from thence, returning privatly; the Conſtable is to come out of his Lodging on Foot, and having viewed the Rooms under and above the <hi>Parliament-houſe,</hi> puts on his Robes, and having his Batton in his hand, ſets himſelf in a Chair at the Entry of the Cloſs, at the Lady-ſteps, by the outmoſt of his Guards, from which he is to riſe and Salute the Members as they light from their Horſes, and to reccommend them to the Gentlemen of his Guard, to be conducted to the Mariſchal Guards.</p>
+            <p n="16">XVI. The Mariſchal is alſo to attend in his Robes, being ſet in a Chair at the head of his Guards, and to receive the Members (having his Batton in his hand) as they enter the Door.</p>
+            <p n="17">XVII. The Officers of State who are Noblemen, ſo many of them as are in the Kingdom, are to Ride up from the <hi>Abbay</hi> in their Robes, about half an hour before the <hi>Cavalcade,</hi> and to wait in the <hi>Parliament-houſe,</hi> until the High Commiſſioner come. And when an ordinary Subject is Commiſsioner, the High Chancellor is to take his own Purſe in his hand, and to Uſher him be<g ref="char:EOLhyphen"/>twixt the Bar and the Throne. But when His <hi>Royal Highneſs,</hi> or any lawful Brother or Son of the King is Commiſsioner, he is to Uſher them from the Door it ſelf and back.</p>
+            <p n="18">XVIII. The whole Members of Parliament are to wait upon His <hi>Majeſties</hi> High Commiſsioner in the Guard-Hall, the Nobility being in their Robes, and the Servants and Horſes are to attend in the outter Cloſs.</p>
+            <p n="19">XIX. The Lyon King at Arms in his Coats, Robe, Chain and Batton (to whoſe charge the order of the Ryding is committed) with ſix Heraulds, ſix Purſevants, and ſix Trumpets, in their Coats, attend likewiſe.</p>
+            <p n="20">XX. How ſoon His <hi>Majeſties</hi> High Commiſsioner is ready, the Lord Re<g ref="char:EOLhyphen"/>giſter (or ſuch as he ſhall appoint) and Lyon ſtanding together, each of them having a Roll in his hand, and the Rolls being read, the Lyon is to call the names of ſuch of them as are to Ride, according to their Order; and one He<g ref="char:EOLhyphen"/>rauld is to cry aloud at one of the Windows, and another Herauld to ſtand at the Gate and ſee them do accordingly.</p>
+            <p n="21">XXI. The Members are to Ride two and two, each Degree by it ſelf, at ſome diſtance, without mixing with any other Degree, ſo that if there fall to be an odd Member of one Degree, he muſt Ride alone.</p>
+            <p n="22">
+               <pb n="3" facs="tcp:176155:2"/> XXII. The Lord Regiſter is to make up the Rolls of Parliament, both for the riding, and Calling in the <hi>Parliament-Houſe,</hi> conform to the Rolls of the riding and calling at the laſt Parliament. <hi>Anno</hi> 1669. whereof he is to give the Lyon a juſt duplicat, except where there is juſt ground to alter the ſame; and the Members are to Ride as they are called; but if they think themſelves prejudged, they may proteſt in the ſame manner as at the Calling of the Rolls in the Houſe, and may afterwards as they think fit, apply themſelves to the Parliament for remedy.</p>
+            <p n="23">XXIII. The Honours are to be carried immediatly before the high Commiſ<g ref="char:EOLhyphen"/>ſioner, the Crown by the Marqueſs of <hi>Douglas;</hi> the Scepter next to it, by the eldeſt Earl preſent; and the Sword before it, by the Earle next in Order, and the Bearers are to Ride one by one bare-headed.</p>
+            <p n="24">XXIV. The Dukes and Marqueſſes are to Ride after the high Commiſſion<g ref="char:EOLhyphen"/>er, at ſome diſtance, conform to the former Cuſtom.</p>
+            <p n="25">XXV. The Maſter of the Horſe is to Ride bare-headed after His <hi>Majeſties</hi> high Commiſsioner, but a little aſide, when the Commiſſioner is the Kings law<g ref="char:EOLhyphen"/>ful Son or Brother.</p>
+            <p n="26">XXVI. The Gentleman-Uſher with a White Rode in his hand, is to Ride aſide bare-headed near to the Commiſſioner, he before on the ſame ſide, and in the ſame manner, as the Maſter of Horſe behind, in the caſe foreſaid.</p>
+            <p n="27">XXVII. How ſoon His <hi>Majeſties</hi> high Commiſſioner alights from his Horſe, the Lord Conſtable is to receive Him, and to attend Him to the Mariſchal Guards, and then both Conſtable and Mariſchal are to Convoy him bare-headed to the Throne, and are in the ſame manner to attend him in his return to Horſe.</p>
+            <p n="28">XXVIII. When the Members alight, the Servants and Horſes are to re<g ref="char:EOLhyphen"/>move, and to ſtand in the Land-Mercat, betwixt the <hi>Toll-booth</hi> and the <hi>Wey-houſe,</hi> until the High Commiſſioner be upon his return to the <hi>Palace.</hi>
+            </p>
+            <p n="29">XXIX. The return to the <hi>Palace</hi> is to be in the ſame manner, with theſe two alterations, <hi>viz.</hi> Firſt, the Conſtable and Mariſchal Ride on the High Com<g ref="char:EOLhyphen"/>miſſioners right and left hand, with Caps of Permiſſion, the Conſtable on the right, and Mariſchal on the left. Secondly the Officers of State, who are Noble-men, are not to take Horſe until the High Commiſsioner be gone, and then are to Ride at ſome diſtance after the Guard.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:176155:3" rendition="simple:additions"/>
+               <head>Order of the Proceeding on Horſe-back, to be performed the firſt day of the enſuing Parliament, by all the Members of Parliament, in Convoying His <hi>Majeſties</hi> high Commiſſioner, from the <hi>Abbay</hi> of <hi>Hally-rudehouſe</hi> to the <hi>Par<g ref="char:EOLhyphen"/>liament-Houſe,</hi> and back again to the <hi>Palace,</hi> the 28. day of <hi>July</hi> 1681.</head>
+               <p>
+                  <hi>About the ſpace of half an hour before the Ryding begin, the Lord high Chancellour, and Lord Privy-ſeal (they being only preſent of the principal Officers of State) Ride up in their Robes, the Chancellour on the right hand with Mace and Purſe before him; and the Privy-Seal on the left; and in their return to the Palace, they are to Ride at a diſtance, after the Guard.</hi>
+               </p>
+               <list>
+                  <item>
+                     <list>
+                        <item>Two Trumpets, in their Coats and Banners, bare-headed,</item>
+                        <item>Two Purſevants, in their Coats and Footmantles, bare-headed,</item>
+                     </list>
+                     <hi>To Uſher the wa<gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>The Commiſſioners for Burghs, two and two.</item>
+                  <item>The Commiſſioners for Shires, two and two.</item>
+                  <item>The four Officers of State who are not Noblemen, two and two.</item>
+                  <item>The Lords or Barons of Parliament, two and two.</item>
+                  <item>The Biſhops, two and two.</item>
+                  <item>The Viſcounts, two and two.</item>
+                  <item>The Earls, two and two.</item>
+                  <item>The two Arch-Biſhops.</item>
+                  <item>Four Trumpets, in their Coats and Banners, bare-headed, two and two.</item>
+                  <item>Four Purſevants, in their Coats and Foot-Mantles, bare-headed, two and two.</item>
+                  <item>Six Heraulds, in their Coats and Foot-Mantles, bare-headed, two and two.</item>
+                  <item>The Lyon King at Arms, in his Coat, Robe, Collar, Batton and Foot-Mant<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> bare-headed.</item>
+                  <item>
+                     <note place="margin">Three Macers with their Maces and Foot-Mantles, bare-headed.</note>
+                     <list>
+                        <item>The Sword of State, born by the Earl of <hi>Mar,</hi> bare-headed.</item>
+                        <item>The Scepter, born by the Earl of <hi>Argile</hi> bare-headed.</item>
+                        <item>The Crown carried by the Marqueſs of <hi>Dowg<g ref="char:EOLhyphen"/>laſs,</hi> bare-headed.</item>
+                     </list>Three Macers with their Maces and Foot-Mantles, bare-headed.</item>
+                  <item>
+                     <note place="margin">The Gentleman Uſher with his white Rode, aſide, bare-headed, in the caſe foreſaid.</note>A Nobleman bearing the Purſe with his Commiſſion, bare-headed.</item>
+                  <item>
+                     <note place="margin">The Maſters of Horſe, bare-headed, aſide, in the caſe foreſaid.</note>His <hi>Royal Highneſs</hi> his <hi>Majeſties</hi> high Commiſſioner, attended wi<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> his Servants, Pages and Footmen; and in the return to the <hi>
+                        <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>lace,</hi> having the high Conſtable on his right hand, and the Mar<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>chal on his left, with Caps of Permiſſion, and in their Robe<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </item>
+                  <item>The Dukes and Marqueſſes attending His <hi>Majeſties</hi> high Commiſſioner in the<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Robes.</item>
+                  <item>The Captain of His <hi>Majesties</hi> Guard on the head of the Troop of Guards.</item>
+               </list>
+               <closer>
+                  <signed>Extracted by me, <hi>WILL. PATERSON,</hi> Cl. Sti. Concilij.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majesty, Anno</hi> DOM. 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
